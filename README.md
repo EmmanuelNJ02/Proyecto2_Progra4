@@ -1,2 +1,8 @@
 # Proyecto2_Progra4
-Repositorio para trabajar el proyecto 2 del curso llamado "Programación IV".
+
+Repositorio para trabajar el proyecto 2 del curso Programación IV.
+
+## Integrantes
+
+- Emmanuel Núñez
+- DorianVS28

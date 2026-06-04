@@ -1,0 +1,6 @@
+target/
+node_modules/
+.env
+.idea/workspace.xml
+*.log
+uploads/cv/*.pdf
